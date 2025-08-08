@@ -1,0 +1,7 @@
+networkx
+numpy
+scipy
+matplotlib
+sphinx
+sphinx-gallery
+sphinx-autobuild

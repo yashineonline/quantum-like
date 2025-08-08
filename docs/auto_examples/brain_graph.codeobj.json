@@ -1,0 +1,29 @@
+{
+ "generate_brain_graph": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "brain.graph",
+   "module_short": "brain.graph",
+   "name": "generate_brain_graph"
+  }
+ ],
+ "nx.draw": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "networkx",
+   "module_short": "networkx",
+   "name": "draw"
+  }
+ ],
+ "plt.show": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "show"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "A": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "numpy",
+   "module_short": "numpy",
+   "name": "ndarray"
+  }
+ ],
+ "G": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "networkx.classes.graph",
+   "module_short": "networkx",
+   "name": "Graph"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "networkx.classes",
+   "module_short": "networkx",
+   "name": "Graph"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "networkx",
+   "module_short": "networkx",
+   "name": "Graph"
+  }
+ ],
+ "generate_brain_graph": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  }
+ ],
+ "nx.draw": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "networkx",
+   "module_short": "networkx",
+   "name": "draw"
+  }
+ ],
+ "nx.random_regular_graph": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "networkx",
+   "module_short": "networkx",
+   "name": "random_regular_graph"
+  }
+ ],
+ "nx.to_numpy_array": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "networkx",
+   "module_short": "networkx",
+   "name": "to_numpy_array"
+  }
+ ],
+ "plt.show": [
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "builtins",
+   "module_short": "builtins",
+   "name": "function"
+  },
+  {
+   "is_class": false,
+   "is_explicit": false,
+   "module": "matplotlib.pyplot",
+   "module_short": "matplotlib.pyplot",
+   "name": "show"
+  }
+ ]
+}
